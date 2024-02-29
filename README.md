@@ -1,4 +1,4 @@
-** '*•.¸♡ Hi there! I'm Verito ♡¸.•*' **
+**'*•.¸♡ Hi there! I'm Verito ♡¸.•*'**
 
 ## Estudiante de Ingeniería en Sistemas 3er Semestre.
 
