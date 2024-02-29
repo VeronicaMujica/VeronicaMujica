@@ -1,6 +1,7 @@
 ## '*•.¸♡ Hi there! ♡¸.•*'
 
 - 🌱 I’m currently learning event-oriented programming.
+- 📫 How to reach me: veronica.mujica@correounivalle.edu.co
 
 
 <!--
