@@ -1,6 +1,7 @@
-# '*•.¸♡ Hi there! ♡¸.•*'
+## '*•.¸♡ Hi there! ♡¸.•*'
 
-🌱 I’m currently learning event-oriented programming.
+- 🌱 I’m currently learning event-oriented programming.
+
 
 <!--
 **VeronicaMujica/VeronicaMujica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
