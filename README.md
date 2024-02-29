@@ -2,6 +2,7 @@
 
 ## Estudiante de Ingeniería en Sistemas 3er Semestre.
 
+- 🎀 I’m currently studying on Universidad del Valle. 
 - 🌱 I’m currently learning event-oriented programming.
 - 📫 How to reach me: veronica.mujica@correounivalle.edu.co
 
