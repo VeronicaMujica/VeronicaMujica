@@ -1,6 +1,6 @@
 ### **'*•.¸♡ Hi there! I'm Verónica ♡¸.•*'**
 
-## 𝓔𝓼𝓽𝓾𝓭𝓲𝓪𝓷𝓽𝓮 𝓭𝓮 𝓘𝓷𝓰𝓮𝓷𝓲𝓮𝓻í𝓪 𝓮𝓷 𝓢𝓲𝓼𝓽𝓮𝓶𝓪𝓼 4to 𝓢𝓮𝓶𝓮𝓼𝓽𝓻𝓮
+## 𝓔𝓼𝓽𝓾𝓭𝓲𝓪𝓷𝓽𝓮 𝓭𝓮 𝓘𝓷𝓰𝓮𝓷𝓲𝓮𝓻í𝓪 𝓮𝓷 𝓢𝓲𝓼𝓽𝓮𝓶𝓪𝓼 7mo 𝓢𝓮𝓶𝓮𝓼𝓽𝓻𝓮
 
 - 🎀 I’m currently studying on Universidad del Valle. 
 - 📫 How to reach me: veronica.mujica@correounivalle.edu.co
