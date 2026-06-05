@@ -19,23 +19,6 @@
 - ⚡ Dato curioso: Me dan miedo los ciclos `while`
 - 📫 Cómo contactarme: **veronica.mujica@correounivalle.edu.co**
 
----
-
-## 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰í𝓪𝓼 🩷
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-C77DFF?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-7B2CBF?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-9D4EDD?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-C77DFF?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-7B2CBF?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</div>
-
----
-
 <div align="center">
 
 *•.¸♡ Gracias por pasar por aquí ♡¸.•*
