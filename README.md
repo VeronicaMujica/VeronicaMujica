@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header animado morado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0AAFF,100:9D4EDD&height=180&section=header&text=Hi%20there!%20I'm%20vero&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%99%A1&descSize=30&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0AAFF,100:9D4EDD&height=180&section=header&text=Hi%20there!%20I'm%20Vero&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%99%A1&descSize=30&descAlignY=55" width="100%"/>
 
 ### **'*•.¸♡ Welcome to my profile ♡¸.•*'**
 
@@ -31,22 +31,6 @@
 <img src="https://img.shields.io/badge/HTML5-9D4EDD?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-C77DFF?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-7B2CBF?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</div>
-
----
-
-## 𝓔𝓼𝓽𝓪𝓭í𝓼𝓽𝓲𝓬𝓪𝓼 📊
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaMujica&layout=compact&langs_count=7&hide_border=true&title_color=9D4EDD&text_color=7B2CBF&bg_color=FCF4FF"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=VeronicaMujica&hide_border=true&background=FCF4FF&stroke=E0AAFF&ring=9D4EDD&fire=C77DFF&currStreakNum=7B2CBF&sideNums=9D4EDD&currStreakLabel=9D4EDD&sideLabels=7B2CBF&dates=B392CB" alt="streak"/>
 
 </div>
 
