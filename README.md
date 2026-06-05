@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header animado morado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0AAFF,100:9D4EDD&height=180&section=header&text=Hi%20there!%20I'm%20Verónica&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%99%A1&descSize=30&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0AAFF,100:9D4EDD&height=180&section=header&text=Hi%20there!%20I'm%20vero&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%99%A1&descSize=30&descAlignY=55" width="100%"/>
 
 ### **'*•.¸♡ Welcome to my profile ♡¸.•*'**
 
@@ -40,7 +40,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeronicaMujica&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=C77DFF&text_color=7B2CBF&bg_color=FCF4FF"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaMujica&layout=compact&langs_count=7&hide_border=true&title_color=9D4EDD&text_color=7B2CBF&bg_color=FCF4FF"/>
 
 </div>
