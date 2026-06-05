@@ -8,8 +8,6 @@
 <!-- Texto animado morado -->
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Universidad+del+Valle+%F0%9F%8E%80" alt="Typing SVG" />
 
-</div>
-
 ---
 
 ## 𝓢𝓸𝓫𝓻𝓮 𝓶í ♡
